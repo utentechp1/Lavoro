@@ -9,6 +9,8 @@ Prossimo: Impara Sourcetree con Bitbucket
 
 
 cccodcioidscoj
+edew
+edwwdwed
 
 ### Passaggio 1: Crea un repository Git  
 
