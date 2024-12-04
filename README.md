@@ -7,6 +7,9 @@ Logo di Sourcetree
 Scarica gratis  
 Prossimo: Impara Sourcetree con Bitbucket  
 
+
+cccodcioidscoj
+
 ### Passaggio 1: Crea un repository Git  
 
 #### Passaggio 1: Crea il repository  
