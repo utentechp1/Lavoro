@@ -1,4 +1,7 @@
-Ottime notizie! Ora abbiamo finalmente i dettagli necessari per configurare l'API in Postman. Di seguito trovi un riepilogo delle informazioni ricevute:
+@Marco_C
+
+https://www.poferries.com/en/routes/cairnryan-to-larne/farefinder#route
+Questo potrebbe essere utile più avanti, per confrontare i prezzi e altre informazioni.
 
 ### **Credenziali e Endpoint**
 - **Account Number**: CT099295, CT099276
