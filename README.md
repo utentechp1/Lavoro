@@ -2,7 +2,15 @@ Ottime notizie! Ora abbiamo finalmente i dettagli necessari per configurare l'AP
 
 ### **Credenziali e Endpoint**
 - **Account Number**: CT099295, CT099276
-- **Client ID, Client Secret, API Key**: Bakara chiede se li hai già, verifica se li hai ricevuti precedentemente o richiedili di nuovo se necessario.
+-  
+
+Traghetti - F. & F. SRL
+
+**Client ID**: 783fl60vbfndov6g47l5mr901p
+**Client Secret**: 730m29f9l7gsfeohfd72bsfleob10t1mdcgioggoqmqqo1enp25
+**API Key**: NzgzZmw2MHZiZm5kb3Y2ZzQ3bDVtcjkwMXA6NzMwbTI5ZjlsN2dzZmVvaGZkNzJic2ZsZW9iMTB0MW1kY2dpb2dnb3FtcXFvMWVucDI1
+
+ 
 - **Root URL (UAT)**: `https://uat.api.cloud.poferries.com/ferrygateway/v2/`
 - **Token URL**: `https://login.microsoftonline.com/poferries.onmicrosoft.com/oauth2/v2.0/token`
 - **Scope**: `api://FerryGatewayUAT/.default`
